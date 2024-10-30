@@ -18,17 +18,17 @@ QR-Coded Parking Ticket: Added a feature for generating a digital parking ticket
 Payment Processing: Integrated secure payment options, allowing users to easily complete transactions within the app.
 
 Design Process
-User Research: Engaged users through surveys and interviews to understand their parking needs and challenges, using these insights to inform design choices.
-Wireframe Creation: Produced medium-fidelity wireframes to visualize the app layout and user flow, which provided a foundation for further iteration.
-Prototyping & Iteration: Created mobile and car UI-compatible prototypes, refining them through user feedback to enhance usability.
-UI/UX Design Principles: Applied modern UI/UX design principles, focusing on efficient navigation, security, and ease of use for a superior user experience.
+->User Research: Engaged users through surveys and interviews to understand their parking needs and challenges, using these insights to inform design choices.
+->Wireframe Creation: Produced medium-fidelity wireframes to visualize the app layout and user flow, which provided a foundation for further iteration.
+->Prototyping & Iteration: Created mobile and car UI-compatible prototypes, refining them through user feedback to enhance usability.
+->UI/UX Design Principles: Applied modern UI/UX design principles, focusing on efficient navigation, security, and ease of use for a superior user experience.
 
 Outcome
 Targeted to increase user convenience by 10%, delivering a secure, accessible, and feature-rich parking app that addresses diverse user needs.
 Provided developers with a detailed blueprint, ensuring a consistent and user-centric design aligned with current security and accessibility standards.
 
 Tech & Tools Used
-Design Software: Figma for wireframe and prototype design.
-UI/UX Principles: Implemented UI/UX best practices to optimize for usability, accessibility, and intuitive navigation flows.
+->Design Software: Figma for wireframe and prototype design.
+->UI/UX Principles: Implemented UI/UX best practices to optimize for usability, accessibility, and intuitive navigation flows.
 
 
